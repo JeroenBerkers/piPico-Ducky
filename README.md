@@ -1,4 +1,4 @@
-Based on the online tutorial of NetworkChuck on Youtube, I created my own piPico-Ducky.
+Based on the online tutorial of NetworkChuck on Youtube, I created my own piPico-Ducky. (https://youtu.be/e_f9p-_JWZw?si=kVizKoEjIPA4bPeQ)
 I use it only for educational purposes and pranks with friends and family.
 
 I edited both files, so I can either suppress the USB Staorage or the execution of the script. Or both.
